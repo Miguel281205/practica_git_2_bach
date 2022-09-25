@@ -9,3 +9,16 @@ Proyecto de practica de github 2022-2023
  6. git commit -m "tarea.txt añadido"
  7. git status
  8. git push origin main
+
+# Lista de asignaturas
+De 2º de Bachiller Tecnológico
+
+ 1. Matemáticas
+ 2. Inglés
+ 3. Fïsica
+ 4. Historia
+ 5. Lengua
+ 6. Tecnología
+ 7. Dibujo Técnico
+ 8. Programación y Computación
+ 9. 
