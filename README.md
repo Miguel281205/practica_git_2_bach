@@ -21,4 +21,5 @@ De 2º de Bachiller Tecnológico
  6. Tecnología
  7. Dibujo Técnico
  8. Programación y Computación
- 9. 
+ 9. Ciudadanía
+ 10. Filosofía
